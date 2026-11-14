@@ -1,0 +1,13 @@
+# Versions below are the ones the trial was tested with (Python 3.13).
+# Other recent versions will probably work; if something breaks, install these exact ones first.
+qiskit==2.6.2
+qiskit-aer==0.18.2
+qiskit-addon-sqd==0.14.1
+ffsim==0.0.86
+pyscf==2.15.0
+numpy==2.5.3
+scipy==1.18.1
+psutil==7.2.2
+threadpoolctl==3.7.0
+matplotlib==3.11.2
+pandas==3.0.5
